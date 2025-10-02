@@ -15,9 +15,10 @@ Focus on data cleaning, VEI bucketing, decade grouping, and visualization (globa
 ---
 
 ## Dataset
-- **Source:** [[link a la fuente]](https://volcano.si.edu/search_eruption.cfm)  
-- **Key fields:** `volcano, latitude, longitude, year, country, type, vei`  
+- **Source:** [Smithsonian Institution - Global Volcanism Program](https://volcano.si.edu/search_eruption.cfm)  
+- **Key fields:** `volcano`, `latitude`, `longitude`, `year`, `country`, `type`, `vei`  
 - **Sample:** `data/sample.csv` (~50 rows) included for testing.
+
 
 ---
 
