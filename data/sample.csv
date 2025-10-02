@@ -1,0 +1,51 @@
+Volcano Number,Volcano Name,Eruption Number,Eruption Category,Area of Activity,VEI,VEI Modifier,Start Year Modifier,Start Year,Start Year Uncertainty,Start Month,Start Day Modifier,Start Day,Start Day Uncertainty,Evidence Method (dating),End Year Modifier,End Year,End Year Uncertainty,End Month,End Day Modifier,End Day,End Day Uncertainty,Latitude,Longitude
+357110,Llaima,12056,Confirmed Eruption,,2.0,,,1942,,6.0,,9.0,,Observations: Reported,,1942,,11.0,,0.0,,-38.692,-71.729
+311110,Kanaga,19709,Confirmed Eruption,,,,,1150,100.0,0.0,,0.0,,Isotopic: 14C (calibrated),,,,,,,,51.923,-177.168
+211050,Vulcano,13467,Confirmed Eruption,Vulcanello III,3.0,,,1550,,0.0,,0.0,,Observations: Reported,,,,,,,,38.404,14.962
+344090,Momotombo,10990,Confirmed Eruption,,2.0,?,,1736,,0.0,,0.0,,Observations: Reported,,,,,,,,12.423,-86.539
+373050,Kverkfjoll,12898,Confirmed Eruption,"Krepputunguhraun, Kverfjallahraun",,,,-5000,1000.0,0.0,,0.0,,Correlation: Tephrochronology,,,,,,,,64.653,-16.647
+283120,Kusatsu-Shiranesan,17835,Confirmed Eruption,Yu-gama,1.0,,,1937,,11.0,,27.0,,Observations: Reported,,1938,,2.0,?,16.0,,36.618,138.528
+221250,Bora-Bericha-Tullu Moye,13955,Confirmed Eruption,Giano lava flow,0.0,,,1775,25.0,0.0,,0.0,,Correlation: Anthropology,,,,,,,,8.2114,39.0812
+273070,Taal,22481,Confirmed Eruption,,1.0,,,2022,,10.0,,5.0,,Observations: Reported,,2022,,10.0,,29.0,,14.0106,120.9975
+282090,Kirishimayama,17136,Confirmed Eruption,Shinmoe-dake,2.0,,,1719,,0.0,,0.0,,Observations: Reported,,,,,,,,31.934,130.862
+283270,Iwakisan,18128,Confirmed Eruption,,1.0,,,1863,,3.0,,23.0,,Observations: Reported,,,,,,,,40.656,140.303
+267040,Awu,16569,Confirmed Eruption,SE part of summit crater,1.0,,,1992,,4.0,,7.0,9.0,Observations: Reported,,,,,,,,3.689,125.447
+390080,Bristol Island,13208,Confirmed Eruption,,2.0,,,1936,,12.0,,18.0,,Observations: Reported,,1937,,1.0,?,1.0,,-59.017,-26.533
+300190,Krasheninnikov,19227,Confirmed Eruption,Northern cone & N outer flank fissure,,,?,-3550,,0.0,,0.0,,Isotopic: 14C (calibrated),,,,,,,,54.596,160.27
+285030,Toya,18602,Confirmed Eruption,Usu N flank (Kompira-yama & W Nishi-yama),2.0,,,2000,,3.0,,31.0,,Observations: Reported,,2001,,9.0,,15.0,5.0,42.544,140.839
+311110,Kanaga,19717,Confirmed Eruption,Upper south flank ?,0.0,,,1904,,0.0,,0.0,,Observations: Reported,,,,,,,,51.923,-177.168
+268040,Gamkonora,16587,Confirmed Eruption,,2.0,,,1917,,10.0,,18.0,,Observations: Reported,,1917,,10.0,,18.0,,1.38,127.53
+273070,Taal,16828,Confirmed Eruption,,3.0,^,,1591,,0.0,,0.0,,Observations: Reported,,,,,,,,14.0106,120.9975
+252080,Witori,15014,Confirmed Eruption,,5.0,,,310,100.0,0.0,,0.0,,Isotopic: 14C (calibrated),,,,,,,,-5.5745,150.5161
+344100,Masaya,11037,Confirmed Eruption,Santiago,1.0,,,2001,,4.0,,23.0,,Observations: Reported,,2001,,4.0,?,25.0,,11.9844,-86.1688
+352050,Cotopaxi,11543,Confirmed Eruption,,2.0,,,1740,,0.0,,0.0,,Observations: Reported,,1741,,0.0,,0.0,,-0.677,-78.436
+268040,Gamkonora,16593,Confirmed Eruption,,1.0,,,1981,,3.0,,4.0,,Observations: Reported,,1981,,7.0,,25.0,,1.38,127.53
+390030,Deception Island,13177,Confirmed Eruption,,,,?,600,,0.0,,0.0,,Isotopic: 14C (uncalibrated),,,,,,,,-62.9567,-60.6367
+323120,Mono-Inyo Craters,20670,Confirmed Eruption,Southern Mono Craters (South Coulee area),4.0,,,620,27.0,0.0,,0.0,,Isotopic: 14C (calibrated),,,,,,,,37.804,-119.029
+358010,Osorno,12223,Confirmed Eruption,,,,,910,100.0,0.0,,0.0,,Isotopic: 14C (uncalibrated),,,,,,,,-41.105,-72.496
+283240,Iwatesan,18060,Confirmed Eruption,Higashi-Iwate,,,,-4350,500.0,0.0,,0.0,,Correlation: Tephrochronology,,,,,,,,39.853,141.001
+252010,Langila,14999,Confirmed Eruption,,2.0,?,,2004,,1.0,?,20.0,,Observations: Reported,,2004,,1.0,?,27.0,,-5.525,148.42
+373060,Askja,12919,Confirmed Eruption,North of Öskjuvatn lake (Vikraborgir),2.0,,,1961,,10.0,,26.0,,Observations: Reported,,1961,,12.0,,5.0,4.0,65.033,-16.783
+263280,Kelud,15932,Confirmed Eruption,,3.0,^,,1548,,0.0,,0.0,,Observations: Reported,,,,,,,,-7.935,112.314
+300240,Tolbachik,19298,Confirmed Eruption,,2.0,,,1793,,0.0,,0.0,,Observations: Reported,,,,,,,,55.832,160.326
+263300,Semeru,16001,Confirmed Eruption,,2.0,,,1898,,2.0,,23.0,,Observations: Reported,,,,,,,,-8.108,112.922
+241050,Okataina,14507,Confirmed Eruption,Waimangu (Echo Crater),1.0,?,,1896,,0.0,,0.0,,Observations: Reported,,,,,,,,-38.1569,176.5069
+268010,Dukono,16576,Confirmed Eruption,,2.0,,,1901,,0.0,,0.0,,Observations: Reported,,,,,,,,1.6992,127.8783
+352080,Tungurahua,11618,Confirmed Eruption,,,,,480,75.0,0.0,,0.0,,Isotopic: 14C (uncalibrated),,,,,,,,-1.467,-78.442
+344080,Las Pilas-El Hoyo Complex,10973,Confirmed Eruption,El Hoyo,2.0,,,1954,,10.0,,29.0,,Observations: Reported,,1954,,10.0,,31.0,,12.4922,-86.6786
+341040,Colima,10405,Confirmed Eruption,,,,?,-1140,,0.0,,0.0,,Isotopic: 14C (uncalibrated),,,,,,,,19.514,-103.62
+285040,Shikotsu,17606,Confirmed Eruption,Tarumai,1.0,,,1920,,7.0,,17.0,,Observations: Reported,,1920,,7.0,,23.0,,42.688,141.38
+360120,Pelee,12388,Confirmed Eruption,,,,?,-5800,,0.0,,0.0,,Isotopic: 14C (uncalibrated),,,,,,,,14.809,-61.166
+332010,Kilauea,10081,Confirmed Eruption,Halemaumau,0.0,,,1927,,7.0,,7.0,,Observations: Reported,,1927,,7.0,,20.0,,19.421,-155.287
+311110,Kanaga,19700,Confirmed Eruption,,,,,-4700,150.0,0.0,,0.0,,Isotopic: 14C (calibrated),,,,,,,,51.923,-177.168
+211010,Campi Flegrei,10022,Confirmed Eruption,Eastern part of NYT caldera,3.0,?,?,-6490,,0.0,,0.0,,Correlation: Tephrochronology,,,,,,,,40.827,14.139
+373030,Bardarbunga,12862,Confirmed Eruption,,,,,1290,10.0,0.0,,0.0,,Sidereal: Ice Core,,,,,,,,64.633,-17.516
+312150,Mageik,20213,Confirmed Eruption,East Mageik,,,,-4400,300.0,0.0,,0.0,,Isotopic: 14C (uncalibrated),,,,,,,,58.195,-155.253
+211040,Stromboli,13430,Confirmed Eruption,Summit craters and Sciara del Fuoco,3.0,,,1910,,5.0,,0.0,,Observations: Reported,,1931,,7.0,,0.0,,38.789,15.213
+268060,Gamalama,16600,Confirmed Eruption,,3.0,,,1608,,7.0,,18.0,,Observations: Reported,,1608,,7.0,,19.0,,0.81,127.3322
+233020,"Fournaise, Piton de la",14274,Confirmed Eruption,,0.0,,,1846,,0.0,,0.0,,Observations: Reported,,,,,,,,-21.244,55.708
+300270,Sheveluch,19561,Confirmed Eruption,,5.0,,,1034,23.0,0.0,,0.0,,Isotopic: 14C (calibrated),,,,,,,,56.653,161.36
+282110,Asosan,17323,Confirmed Eruption,Naka-dake,2.0,,,1951,,5.0,,4.0,,Observations: Reported,,1951,,8.0,,16.0,15.0,32.8849,131.085
+321050,St. Helens,20526,Confirmed Eruption,,,,?,-1010,,0.0,,0.0,,Isotopic: 14C (calibrated),,,,,,,,46.2,-122.18
+263310,Tengger Caldera,16037,Confirmed Eruption,Bromo,2.0,,,1886,,4.0,,15.0,,Observations: Reported,,1886,,4.0,,26.0,,-7.942,112.95
+357120,Villarrica,12100,Confirmed Eruption,,2.0,,,1558,,0.0,,0.0,,Observations: Reported,,,,,,,,-39.42,-71.93
