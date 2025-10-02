@@ -1,5 +1,9 @@
 # Volcano Eruptions — EDA & Interactive Maps 🌋
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/moiseslobayza/eruptions-maps-analysis/blob/main/notebooks/eruptions_maps_analysis.ipynb
+)
+
 ![Mapa Erupciones](reports/figures/hero_map.png)
 
 ---
