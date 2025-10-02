@@ -1,6 +1,6 @@
 # Volcano Eruptions — EDA & Interactive Maps 🌋
 
-![Mapa Erupciones](reports/hero_map.png)
+![Mapa Erupciones](reports/figures/hero_map.png)
 
 ---
 
