@@ -48,8 +48,7 @@ jupyter notebook notebooks/eruptions_maps_analysis.ipynb
 
 ## 📂 Deliverables
 - `notebooks/eruptions_map.ipynb` — full notebook with step-by-step analysis
-- `notebooks/eruptions_map.html` — static HTML export (view without execution)
-- `reports/figures/` — key figures (map, heatmap, bar charts)
+- `reports/figures/` — key figures (map)
 - `data/sample.csv` — small demo dataset
 
 ## 📜 License
