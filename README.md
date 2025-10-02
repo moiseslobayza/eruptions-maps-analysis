@@ -1,6 +1,6 @@
 # Volcano Eruptions — EDA & Interactive Maps 🌋
 
-![Mapa Erupciones](reports/eruption_map.png)
+![Mapa Erupciones](reports/hero_map.png)
 
 ---
 
@@ -11,7 +11,7 @@ Focus on data cleaning, VEI bucketing, decade grouping, and visualization (globa
 ---
 
 ## Dataset
-- **Source:** [link a la fuente]  
+- **Source:** [[link a la fuente]](https://volcano.si.edu/search_eruption.cfm)  
 - **Key fields:** `volcano, latitude, longitude, year, country, type, vei`  
 - **Sample:** `data/sample.csv` (~50 rows) included for testing.
 
